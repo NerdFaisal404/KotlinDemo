@@ -17,4 +17,5 @@ fun main(args: Array<String>) {
         3 -> println("This mode is super productive")
         else -> println("I don't know this mode.")
     }
+
 }
